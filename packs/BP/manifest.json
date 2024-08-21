@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "bundles-dyed BP",
+        "description": "By SmokeyStack",
+        "uuid": "8da8dcc4-ba50-425a-a04c-6596ee26824d",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            30
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "6d53d285-d9cf-423e-8bb3-fcc57330f129",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "f30ad8d2-60dc-49d6-88de-14c75bd9bf87",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
